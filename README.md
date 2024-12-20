@@ -35,7 +35,7 @@ I'm a passionate **Master's in Computer Science** student at **Virginia Tech**, 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=redux,oracle,postgresql,aws,azure,angular,powerbi,bitbucket,postman,docker,kubernetes,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=redux,oracle,Jquery,postgresql,aws,azure,angular,powerbi,bitbucket,postman,docker,kubernetes,linux" /><br>
 </div>
 
 ---
