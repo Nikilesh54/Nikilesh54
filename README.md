@@ -53,24 +53,6 @@ I'm a passionate **Master's in Computer Science** student at **Virginia Tech**, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-### 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/nikileshmadala](https://www.linkedin.com/in/nikileshmadala)
-- **Email**: nikileshm@vt.edu
-
----
-
-### 💬 Fun Fact
-I have a keen eye for detail and love organizing things—qualities that often surprise people when they see how structured my code (and even my desk) is!
-
----
 
 Feel free to explore my repos and reach out if you want to collaborate or discuss exciting tech ideas! 🚀
