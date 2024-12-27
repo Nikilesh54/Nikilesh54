@@ -55,7 +55,7 @@ I'm a passionate **Master's in Computer Science** student at **Virginia Tech**, 
 
 ### 📈 My GitHub Stats
 
- ![image](https://github-readme-stats.vercel.app/api?username=Nikilesh54&show_icons=true&theme=github-light)
+![image](https://user-images.githubusercontent.com/20955511/183303700-7678833c-70c1-4260-8da0-5c8db7b2c38b.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilesh54&layout=compact)](https://github.com/Nikilesh54/github-readme-stats)
 
