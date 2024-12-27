@@ -61,6 +61,6 @@ I'm a passionate **Master's in Computer Science** student at **Virginia Tech**, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilesh54&layout=compact)](https://github.com/Nikilesh54/github-readme-stats)
 
-</div>
-
 Feel free to explore my repos and reach out if you want to collaborate or discuss exciting tech ideas! 🚀
+
+</div>
