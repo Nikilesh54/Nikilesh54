@@ -56,6 +56,7 @@ I'm a passionate **Master's in Computer Science** student at **Virginia Tech**, 
 <div align="center">
   
 ### 📈 My GitHub Stats
+![](https://komarev.com/ghpvc/?username=Nikilesh54&color=green&style=flat-square&label=VISITORS)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nikilesh54&theme=github-light&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
